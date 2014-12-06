@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OcrTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name = "imgread">读入图片</string>
+    <string name = "extract">提取数字</string>
+    <string name = "imagename">原始图片</string>
+</resources>
